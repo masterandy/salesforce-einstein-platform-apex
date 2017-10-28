@@ -55,7 +55,7 @@ Alternatively you can use [Wade's OSS plugin for Salesforce DX](https://www.npmj
 
 Again thanks to Wade for creating this neat feature.
 
-[![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com/deploy)
+[![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com/)
 
 ## Configuration
 
